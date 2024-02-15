@@ -38,5 +38,4 @@ I learnt Tailwind CSS, and I can't wait to use it in all my future projects.
 
 ## Author
 
-- Website - [Raymond Zeaiter](https://raymondzeaiter.netlify.app/)
 - Frontend Mentor - [@king-oldmate](https://www.frontendmentor.io/profile/king-oldmate)
